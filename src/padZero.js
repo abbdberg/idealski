@@ -1,0 +1,1 @@
+export const padZero = (value) =>  ("0" + value).slice(-2);
