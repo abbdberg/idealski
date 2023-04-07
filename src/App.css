@@ -2,10 +2,11 @@
   text-align: center;
 }
 
-body {
+body, .background {
   font-size: 12px !important;
   font-weight: 500;
   font-family: 'roboto mono';
+  background-color: #fdf6e3;
 }
 
 td {
@@ -21,7 +22,7 @@ tr {
 tr:hover td {
   /* border-top: 1px solid #333;
   border-bottom: 1px solid #333; */
-  background-color: #65a0f8;
+  background-color: #839496;
 }
 
 .btn {
@@ -50,17 +51,22 @@ input.small {
 }
 
 .NotStarted {
-  background-color: #6c757d;
+  /* background-color: #6c757d; */
+  background-color: #839496;
 }
 
 .Started {
-  background-color: #0d6efd;
+  /* background-color: #0d6efd; */
+  background-color: #cb4b16;
+
 }
 
 .Lapped {
-  background-color: #ffc107;
+  background-color: #6c71c4;
 }
 
 .Finished {
-  background-color: #198754;
+  /* background-color: #198754; */
+  background-color: #d33682;
+
 }

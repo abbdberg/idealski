@@ -24,7 +24,7 @@ export const SkierRow = ({
   const state = getState(start, lap, finish);
   const style = {};
   if (state === "Finished") {
-    style.backgroundColor = "#eee";
+    style.backgroundColor = "#f3e5bf";
   }
   return (
     <tr style={style}>
