@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/idealski/static/css/main.1d7c14bb.css",
+    "main.js": "/idealski/static/js/main.8063e259.js",
+    "index.html": "/idealski/index.html",
+    "main.1d7c14bb.css.map": "/idealski/static/css/main.1d7c14bb.css.map",
+    "main.8063e259.js.map": "/idealski/static/js/main.8063e259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7c14bb.css",
+    "static/js/main.8063e259.js"
+  ]
+}
