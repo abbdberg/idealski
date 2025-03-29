@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import { SkierRow } from "./SkierRow";
 import { Clock } from "./Clock";
